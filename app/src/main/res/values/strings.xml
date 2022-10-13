@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">concurso</string>
+    <string name="estas_han_sido_tus_respuestas">Estas han sido tus respuestas:</string>
+    <string name="textview">TextView</string>
+</resources>
